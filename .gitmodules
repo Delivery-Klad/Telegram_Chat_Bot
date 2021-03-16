@@ -1,0 +1,3 @@
+[submodule "Telegram_Bot"]
+	path = Telegram_Bot
+	url = https://github.com/Delivery-Klad/Telegram_Bot.git
